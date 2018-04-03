@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "232684439991",
+    "firebase_url": "https://seam-564f1.firebaseio.com",
+    "project_id": "seam-564f1",
+    "storage_bucket": "seam-564f1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:232684439991:android:d61da1a6d4856c49",
+        "android_client_info": {
+          "package_name": "com.app.seam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "232684439991-2uqt879ei0cro1mr3ogmdq61uj35pbmf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.seam",
+            "certificate_hash": "c58c4b963f902cb8016c3ba0307b322b74a6e87c"
+          }
+        },
+        {
+          "client_id": "232684439991-uk8m4lppubp45upf1uecfad5qqdsn8g4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHyv9AcJ9mQXedhEQQbWFcNLEc-565XZE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "232684439991-uk8m4lppubp45upf1uecfad5qqdsn8g4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
